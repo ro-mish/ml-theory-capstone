@@ -1,5 +1,5 @@
 # Benchmarking Kernel Machines on Text Datasets
-Data Science Capstone Project advised by Mikhail Belkin.
+Data Science Capstone Project advised by Rohit Mishra, Arunav Gupta, William Luu, & Mehdi Boussami. Advised by Professor Mikhail Belkin.
 
 ## Scaling Tests
 If you would like to run the expriments used in the report "On Feature Scaling of Recursive Feature Machines", follow the steps below:
